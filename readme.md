@@ -2,9 +2,6 @@
 
 A simple C library for transforming command-line arguments, with case conversion utilities and example programs.
 
-## Repository Name
-**argmanip-utils**
-
 ## Description
 This project provides a small, header-only C library to manipulate arrays of string arguments (`argv`), including case conversion functions (`toupper`, `tolower`). It includes example programs demonstrating usage and a test program showcasing process creation and execution flow.
 
@@ -69,8 +66,3 @@ Remove compiled artifacts:
 ```sh
 make clean
 ```
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
